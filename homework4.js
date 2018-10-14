@@ -3,7 +3,7 @@ const astx =function(x) {
   while(x>0){
     return astx(x-1)+"*";
   }
-  x = x-1;
+  x--;
  	 return "";
 };
 const aaa = function(y){
