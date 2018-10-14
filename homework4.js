@@ -157,7 +157,7 @@ function probel(p1){
       console.log(aaastx(ch));  
     }
     if(t%2===1){
-      //using function getSpaces creatend on top for function 1
+    
     console.log(probel(1) + aaastx(ch));
     }
     t++;
